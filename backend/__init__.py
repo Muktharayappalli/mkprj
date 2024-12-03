@@ -19,5 +19,3 @@ def set_logger():
     return logger
 
 logger = set_logger()
-
-logger.info("If the issue persists, please contact our customer happiness team.")
